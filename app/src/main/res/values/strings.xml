@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">PR_RV_Dimas</string>
+    <string name="judul1">Digimon</string>
+    <string name="judul2">Pokemon</string>
+    <string name="judul3">Fairy Tail</string>
+    <string name="judul4">One Piece</string>
+    <string name="judul5">Power Ranger</string>
+    <string name="judul6">Ultraman</string>
+    <string name="sinop1"><p>Pada tanggal 1 Agustus 1999, tujuh anak diangkut ke Dunia Digital
+        oleh Digivices yang muncul di hadapan mereka di perkemahan musim panas,
+        di mana mereka berteman dengan beberapa Digimon (Digital Monsters). Digivices anak-anak
+        memungkinkan Digimon pasangan mereka untuk Digivolve ke dalam bentuk yang lebih kuat dan memerangi musuh.
+        Ketika anak-anak menjelajah untuk menemukan jalan pulang, mereka belajar bahwa mereka adalah "DigiDestined",
+        anak-anak yang dipilih untuk menyelamatkan Dunia Digital.</p></string>
+    <string name="sinop2"><p>menceritakan tentang Ash Ketchum (alias Satoshi di versi Jepang),
+        bersama teman-temannya dan ambisinya untuk menjadi seorang Pokémon Master.
+        Ash memilih Pikachu untuk menjadi Pokémon pertamanya sekaligus team partnernya.
+        Bercerita tentang hubungan pertemanan
+        antara Ash, Pikachu, Misty, Brock, May, Max, Tracey, dan beragam jenis Pokémon beserta para pelatihnya.
+    </p></string>
+    <string name="sinop3"><p>Dunia bumi-tanah adalah rumah bagi banyak serikat di mana
+        penyihir menerapkan sihir mereka untuk permintaan pekerjaan yang dibayar.
+        Natsu Dragneel , penyihir pembunuh naga dari guild Fairy Tail, menjelajahi Kerajaan Fiore
+        untuk mencari ayah angkatnya yang hilang, Igneel naga . Selama perjalanannya,
+        dia berteman dengan seorang penyihir surgawi muda bernama Lucy Heartfilia
+        dan mengundangnya untuk bergabung dengan Fairy Tail.
+        Lucy membentuk tim dengan Natsu dan seperti kucing nya Melebihi mitra, Selamat ,
+        yang bergabung dengan anggota serikat lain: Gray Fullbuster , wizard es;
+        Erza Scarlet , seorang ksatria magis; danWendy Marvell dan Carla , pembunuh naga lainnya dan Exceed duo.
+        Tim memulai berbagai misi bersama, yang meliputi penjahat penakluk, guild gelap ilegal,
+        dan setan Eterious kuno yang diciptakan oleh Zeref , seorang penyihir gelap abadi.</p></string>
+    <string name="sinop4"><p></p>Bercerita tentang Bajak Laut Monkey D Luffy si Topi Jerami</string>
+    <string name="sinop5"><p>Bercerita tentang 5 super hero pembela bumi</p></string>
+    <string name="sinop6"><p>Bercerita tentang pahlawan raksaksa</p></string>
 </resources>
+
