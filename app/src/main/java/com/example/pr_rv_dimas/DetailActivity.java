@@ -18,6 +18,7 @@ public class DetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_detail);
         detailImage = (ImageView)findViewById(R.id.imageInfo);
         sinopText = (TextView)findViewById(R.id.sinopText);
+        getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
         Intent intent = getIntent();
         String text = intent.getStringExtra("text");
         int image = intent.getIntExtra("image",0);
